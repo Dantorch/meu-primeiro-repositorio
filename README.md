@@ -1,1 +1,13 @@
-# meu-primeiro-repositorio
+# Meu Primeiro Repositório
+
+## Sobre mim
+Nome: Cleverson Filipe Cordeiro
+Curso: Engenharia de Software
+
+## Objetivo
+Aprender a usar o GitHub para versionamento de código.
+
+## O que estou aprendendo
+- Git
+- GitHub
+- Versionamento
